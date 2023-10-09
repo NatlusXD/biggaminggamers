@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/biggaminggamers/static/css/main.d063b1f5.css",
+    "main.js": "/biggaminggamers/static/js/main.ab6ff98e.js",
+    "static/media/homeimage3.png": "/biggaminggamers/static/media/homeimage3.bf1c1be24086efbad0c6.png",
+    "static/media/logo1.png": "/biggaminggamers/static/media/logo1.9ea45b25d9d03cd8e08d.png",
+    "static/media/potion2.png": "/biggaminggamers/static/media/potion2.16150bfb3cdf1298d7c8.png",
+    "static/media/service3.png": "/biggaminggamers/static/media/service3.43f6728883f42b17994c.png",
+    "static/media/service1.png": "/biggaminggamers/static/media/service1.3ca7b366b907a6a3926a.png",
+    "index.html": "/biggaminggamers/index.html",
+    "main.d063b1f5.css.map": "/biggaminggamers/static/css/main.d063b1f5.css.map",
+    "main.ab6ff98e.js.map": "/biggaminggamers/static/js/main.ab6ff98e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d063b1f5.css",
+    "static/js/main.ab6ff98e.js"
+  ]
+}
